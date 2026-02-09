@@ -1,12 +1,12 @@
 # Kaggle-Pandas-Exercise
 I successfully completed the Kaggle Pandas Micro-Course, building strong, industry-relevant skills in data manipulation and exploratory analysis using Python. This repository reflects my commitment to developing practical expertise required for Data Analyst and Data Science roles.
 This project demonstrates my ability to:
-✔ Clean and prepare messy datasets
-✔ Perform structured Exploratory Data Analysis (EDA)
-✔ Identify patterns, trends, and anomalies
-✔ Apply analytical thinking to real-world scenarios
-✔ Write efficient and readable Pandas code
-✔ Build a strong foundation for machine learning workflows
+1. Clean and prepare messy datasets
+2. Perform structured Exploratory Data Analysis (EDA)
+3. Identify patterns, trends, and anomalies
+4. Apply analytical thinking to real-world scenarios
+5. Write efficient and readable Pandas code
+6. Build a strong foundation for machine learning workflows
 
 👉 Focus: Employable skills, not just course completion.
 🧠 Core Competencies Developed
@@ -40,6 +40,6 @@ While working on datasets, I consistently asked:
 4. Fundamental EDA techniques
 📊 Goal: Deliver insights that create measurable value.
 ⭐ Professional Highlight
-✔ Demonstrates discipline, consistency, and technical curiosity
-✔ Reflects strong analytical potential
-✔ Signals readiness for real-world data challenges
+1. Demonstrates discipline, consistency, and technical curiosity
+2. Reflects strong analytical potential
+3. Signals readiness for real-world data challenges
